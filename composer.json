@@ -1,0 +1,12 @@
+{
+    "name": "partkeepr/extjs6",
+    "description": "ExtJS 6.0.0.640 distro",
+    "license": "GPLv3",
+    "keywords": [
+        "PartKeepr",
+        "extjs6"
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
