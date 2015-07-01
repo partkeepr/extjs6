@@ -2,6 +2,7 @@
     "name": "partkeepr/extjs6",
     "description": "ExtJS 6.0.0.640 distro",
     "license": "GPLv3",
+    "type": "zend-extra",
     "keywords": [
         "PartKeepr",
         "extjs6"
